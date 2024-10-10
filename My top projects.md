@@ -62,7 +62,7 @@ This project analyzes a kaggle survey of employability and studies and makes a c
 
 ### [Mass file renaming with excel](https://github.com/JoseChirif/Mass-file-renaming-with-excel)
 
-Generate an automatic excel template with the files in the same folder of your project and rename all of them with one click (as the new value you assing in the excel).
+Generate an automatic excel template with the name of all files in the same folder of your project. Then, rename all of them with one click (as the new value you assing in the excel).
 
 ![Mass file renaming intro](https://github.com/user-attachments/assets/a83851ec-b4ee-43c1-a433-60317cde5f2f)
 
