@@ -86,7 +86,7 @@ Generate an automatic excel template with the name of all files in the same fold
 
 ### [Pictures to ppt](https://github.com/JoseChirif/Pictures-to-ppt)
 
-Automatically inserts all images from a folder to ppt slides.
+Automatically inserts all images from a folder to ppt slides with one click!
 
 ![Pictures to ppt intro](https://github.com/user-attachments/assets/35930e24-d37f-488a-a7d8-457cf8745e50)
 
