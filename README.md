@@ -32,24 +32,29 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 -------------
 
+
+
  <!--- Logos repository: https://github.com/devicons/devicon/tree/master/icons --->
  <!--- Logos microsoft: https://github.com/microsoft/PowerBI-Icons --->
  <!--- First row --->
  <!---
+ <br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" alt="r" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" alt="r" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="php" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" alt="Power BI" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-Automate-Colored.svg" alt="Power automate" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"  />
+    &nbsp;     &nbsp;    &nbsp;
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-Automate-Colored.svg" alt="Power automate" width="50" height="50"  />
 
   </p>
 
@@ -59,20 +64,28 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
    <!--- Second row --->
 <!--- 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="Numpy" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="Numpy" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="80" height="80"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="80" height="80"  />
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="80" height="80"  />
+    <img src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png" alt="SAP BO" width="80" height="80"  />
+    <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="50" height="50"  />
     &nbsp;     &nbsp;    &nbsp;
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" alt="Power BI" width="80" height="80"  />
+    <img src="https://shiny.posit.co/images/shiny-solo.png" alt="shiny" width="50" height="50"  />
+    &nbsp;     &nbsp;    &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="50" height="50"  />
+    &nbsp;     &nbsp;    &nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png" alt="SAP BO" width="50" height="50"  />
+    &nbsp;     &nbsp;    &nbsp;
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"  />
   </p>
+
+<br>
  --->
 
 
