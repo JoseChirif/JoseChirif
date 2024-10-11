@@ -135,7 +135,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Pictures to ppt intro](https://github.com/user-attachments/assets/35930e24-d37f-488a-a7d8-457cf8745e50)
 
 
-    <!--- Badges automatitation --->
+  <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Pictures-to-ppt" alt="Languages" />
@@ -177,7 +177,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Progress circles intro](https://github.com/user-attachments/assets/c5186967-14f9-4c56-a68c-7d30ee9f6ef7)
 
 
-    <!--- Badges automatitation --->
+  <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt" alt="Languages" />
