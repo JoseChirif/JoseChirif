@@ -14,7 +14,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Melbourne house intro](https://github.com/user-attachments/assets/36e77cc4-c93b-4994-98cd-51639385b4cc)
 
 
-  <!--- Badges /> --->
+  <!--- Badges Data science --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/top/JoseChirif/ProyectoDS_Partel_-Chirif_Molina-" alt="Languages" />
@@ -49,7 +49,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Job-study intro](https://github.com/user-attachments/assets/7cc8e972-0606-4bcb-9487-82e8a3e48170)
 
 
-  <!--- Badges /> --->
+  <!--- Badges Data science --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/top/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle" alt="Languages" />
@@ -91,8 +91,8 @@ I'm Jose Chirif and here you can find my top personal projects!
 
 
 
-  <!--- Badges /> --->
-  <!--- Badges automatitation /> --->
+
+  <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Mass-file-renaming-with-excel" alt="Languages" />
@@ -135,7 +135,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Pictures to ppt intro](https://github.com/user-attachments/assets/35930e24-d37f-488a-a7d8-457cf8745e50)
 
 
-    <!--- Badges automatitation /> --->
+    <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Pictures-to-ppt" alt="Languages" />
@@ -177,7 +177,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Progress circles intro](https://github.com/user-attachments/assets/c5186967-14f9-4c56-a68c-7d30ee9f6ef7)
 
 
-    <!--- Badges automatitation /> --->
+    <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt" alt="Languages" />
@@ -219,7 +219,7 @@ I'm Jose Chirif and here you can find my top personal projects!
   ![Progress bar intro](https://github.com/user-attachments/assets/fee7e342-5914-4e63-a8c8-4880deaaedc8)
 
 
-  <!--- Badges automatitation /> --->
+  <!--- Badges automatitation --->
   <p align="center">
     &nbsp;
     <img src="https://img.shields.io/github/languages/count/JoseChirif/Progress-bar-power-point" alt="Languages" />
