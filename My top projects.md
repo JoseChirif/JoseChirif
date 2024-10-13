@@ -7,7 +7,7 @@ I'm Jose Chirif and here you can find my top personal projects!
 ## 📈 Data science and analysis
 
 <!--- PROJECT MELBOURNE HOUSE PRICE 2018--->
-### [Melbourne (Australia) house price 2018 (Spanish)](https://github.com/JoseChirif/ProyectoDS_Partel_-Chirif_Molina-)
+### [Melbourne (Australia) house price 2018](https://github.com/JoseChirif/2018-House-Price-Estimation---Melbourne-Australia)
 
   In this notebook I made an analysis of all variables that could influence in the price of Melbourne house's. Also, there is a final simulation that prompts the user to enter data and predicts the average price of the house.
 
@@ -30,9 +30,11 @@ I'm Jose Chirif and here you can find my top personal projects!
     &nbsp;
   </p>
 
+
+
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/ProyectoDS_Partel_-Chirif_Molina-">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/2018-House-Price-Estimation---Melbourne-Australia">Visit the project through this link</a>
   </p>
 
 
@@ -42,7 +44,7 @@ I'm Jose Chirif and here you can find my top personal projects!
 ------
 
 <!--- PROJECT JOB STUDIES RELATIONSHIP --->
-### [Job-Studies relationship: Kaggle survey (Spanish)](https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle)
+### [Job-Studies relationship: Kaggle survey](https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle)
 
   This project analyzes a kaggle survey of employability and studies and makes a comprehensive analysis of the relationship of these and other variables. Machine learning tools as supervized training were used to obtain better conclusions.
 
@@ -266,5 +268,4 @@ Let's connect and create something amazing!
 <p align="right">
   <a href="https://linktr.ee/JChirif">@JoseChirif</a>
   &nbsp;
-  --->
 </p>
