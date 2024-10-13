@@ -36,12 +36,7 @@ if __name__ == "__main__":
     total_stars = get_total_stars(username)
 
     # Save the result in a JSON file for shields.io
-    json_data = {
-        "schemaVersion": 1,
-        "label": "Stars",
-        "message": str(total_stars),  # Convert the star count to string
-        "color": "yellow"  # You can change this color as needed
-    }
+    json_data = {"message": str(total_stars)} # Convert the star count to string
 
     json_file_path = os.path.join(os.path.dirname(__file__), "stars_total.json")
     with open(json_file_path, "w") as f:
