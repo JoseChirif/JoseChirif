@@ -8,6 +8,12 @@ I have a strong foundation in **Python** 🐍, **R Studio** 📊, **DAX** 🧮, 
 
 Currently deepening my specialization in **Data Science** 📈, focusing on **machine learning** 🤖, **data visualization** 📊, and **statistical analysis** 📐.
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/main/scripts/stars_total.json&color=white&label=stars&logo=github" alt="Github total stars"/>
+</p>
+
+
+
 
 ## 💡 I’m looking to collaborate on:
 - Data science projects that involve **predictive modeling**, **data analysis**, and **machine learning**.

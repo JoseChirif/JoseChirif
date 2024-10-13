@@ -38,7 +38,7 @@ if __name__ == "__main__":
     # Save the result in a JSON file for shields.io
     json_data = {
         "schemaVersion": 1,
-        "label": "stars",
+        "label": "Stars",
         "message": str(total_stars),  # Convert the star count to string
         "color": "yellow"  # You can change this color as needed
     }
