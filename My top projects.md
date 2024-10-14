@@ -7,7 +7,7 @@ I'm Jose Chirif and here you can find my top personal projects!
 Welcome to my top projects, they are categorised as:
 
 - [Data science and analysis](#-data-science-and-analysis)
-- [Automatization](#%EF%B8%8F-automatization-some-made-as-a-hobbie-)
+- [Automatization](#-automatization-some-made-as-a-hobbie-)
 
 
 ## 📈 Data science and analysis
