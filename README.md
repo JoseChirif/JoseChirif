@@ -24,7 +24,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 - Exploring **automation** solutions using **Python** to streamline workflows.
 
 ## 🔍 I’m looking for help with:
-- Improving my understanding of **big data platforms**.
+- Improving my expertise in **big data platforms**.
 - Enhancing my skills in **deep learning** and **AI**.
 
 <br>
