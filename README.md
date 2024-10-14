@@ -10,10 +10,11 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 <p align="center">
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/main/scripts/stars_total.json&color=white&label=stars&logo=github" alt="Github total stars"/>
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&color=white&label=Stars&logo=github" alt="Github total stars"/>
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/downloads_total.json&color=green&label=Downloads" alt="Downloads total"/>
   </a>
 </p>
-
 
 
 
