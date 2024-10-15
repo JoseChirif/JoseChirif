@@ -40,7 +40,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/2018-House-Price-Estimation---Melbourne-Australia">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/2018-House-Price-Estimation---Melbourne-Australia">Visit the project repository through this link</a>
   </p>
 
 
@@ -76,7 +76,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle">Visit the project repository through this link</a>
   </p>
 
   **Limitations:** As describe in the repository.
@@ -126,7 +126,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Mass-file-renaming-with-excel">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/Mass-file-renaming-with-excel">Visit the project repository through this link</a>
   </p>
 
 
@@ -170,7 +170,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Pictures-to-ppt">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/Pictures-to-ppt">Visit the project repository through this link</a>
   </p>
 
 <!--- END PROJECT PICTURES TO PPT --->
@@ -211,7 +211,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt">Visit the project repository through this link</a>
   </p>
 
 
@@ -254,7 +254,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Progress-bar-power-point">Visit the project through this link</a>
+    <a href="https://github.com/JoseChirif/Progress-bar-power-point">Visit the project repository through this link</a>
   </p>
 
 
