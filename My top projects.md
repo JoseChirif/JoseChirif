@@ -85,6 +85,42 @@ Welcome to my top projects, they are categorised by:
 ------
 
 
+<!--- PROJECT Reviews and Satisfaction Analysis of AirBnB --->
+### [Reviews and Satisfaction Analysis of AirBnB Brazil and Mexico from June 2010 to February 2021](https://github.com/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021)
+
+  This project analyzes the reviews and satisfaction of customers who used AirBnB services. It also studies if there is a relationship between another variables.
+
+  ![Analysis AirBnB intro](https://github.com/user-attachments/assets/64b0dd4c-3c6d-48e8-af3b-35e3f7a493c3)
+
+
+  <!--- Badges Data science --->
+  <p align="center">
+    &nbsp;
+    <img src="https://img.shields.io/github/languages/top/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="Languages" />
+    &nbsp;
+    <img src="https://img.shields.io/github/license/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="License" />
+    &nbsp;
+  </p>
+  <p align="center">
+    &nbsp;
+    <img src="https://img.shields.io/github/watchers/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="watchers" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="Stars" />
+    &nbsp;
+  </p>
+  
+
+  <!--- Link --->
+  <p align="center">
+    <a href="https://github.com/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021">Visit the project repository through this link</a>
+  </p>
+
+  **Limitations:** As describe in the repository.
+<!--- END Reviews and Satisfaction Analysis of AirBnB --->
+
+------
+
+
 
 
 ## ⚙️ Automation (some made as a hobbie! 😃)

@@ -1,4 +1,4 @@
-# Hi there! 👋 Nice to meet you!  😃
+# Hi there! 👋 Welcome to my GitHub!  😃
 
 ![badge main](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)
 
@@ -94,7 +94,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"  />
   </p>
 
-<br>
+
  --->
 
 <br>
@@ -104,6 +104,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 - [Automation](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Aautomation)
 
 
+<br>
 
 <!--- Footer-->
 ## 📫 How to reach me:
