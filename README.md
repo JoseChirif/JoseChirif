@@ -10,10 +10,13 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 <p align="center">
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&color=white&label=Stars&logo=github" alt="Github total stars"/>
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&label=Stars&logo=github&style=social" alt="Github total stars"/>
+  </a>
     &nbsp;
+  <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/downloads_total.json&color=green&label=Downloads" alt="Downloads total"/>
   </a>
+  
 </p>
 
 
@@ -99,7 +102,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 <br>
 
-**_Check my repositories categorized by:_**
+**_Check my Github repositories categorized by:_**
 - [Data science and analysis](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Adata)
 - [Automation](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Aautomation)
 
@@ -116,3 +119,4 @@ Let's connect and create something amazing!
 <p align="right">
   <a href="https://linktr.ee/JChirif">@JoseChirif</a>
 </p>
+
