@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!  😃
 
-![badge main](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)
+![Data science](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)
 
 **I'm an Industrial Engineer specializing in Data Science.**
 
