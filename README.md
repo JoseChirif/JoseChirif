@@ -10,11 +10,15 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 <p align="center">
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&label=Stars&logo=github&style=social" alt="Github total stars"/>
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/downloads_total.json&color=green&label=Downloads" alt="Downloads total"/>
   </a>
     &nbsp;
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/downloads_total.json&color=green&label=Downloads" alt="Downloads total"/>
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/clones_totales.json&color=blue&label=Clones" alt="Unique clones" />
+  </a>
+    &nbsp;
+  <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&label=Stars&logo=github&style=social" alt="Github total stars"/>
   </a>
   
 </p>
@@ -103,7 +107,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 <br>
 
 **_Check my Github repositories categorized by:_**
-- [Data science and analysis](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Adata)
+- [Data science and data analysis](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Adata)
 - [Automation](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Aautomation)
 
 

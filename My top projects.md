@@ -6,7 +6,7 @@ I'm Jose Chirif and here you can find my top personal projects!
 
 Welcome to my top projects, they are categorised by:
 
-- [Data science and analysis](#-data-science-and-analysis)
+- [Data science and data analysis](#-data-science-and-analysis)
 - [Automation](https://github.com/JoseChirif/JoseChirif/blob/main/My%20top%20projects.md#%EF%B8%8F-automation-some-made-as-a-hobbie-)
 
 
@@ -29,8 +29,12 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/ProyectoDS_Partel_-Chirif_Molina-?style=social" alt="watchers" />
+    --->
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/2018-House-Price-Estimation---Melbourne-Australia.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/ProyectoDS_Partel_-Chirif_Molina-?style=social" alt="Stars" />
     &nbsp;
@@ -66,8 +70,12 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle" alt="watchers" />
+    ---->
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Estudios-y-empleabilidad-Encuesta-kaggle.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle" alt="Stars" />
     &nbsp;
@@ -102,8 +110,12 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="watchers" />
+    --->
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021" alt="Stars" />
     &nbsp;
@@ -151,10 +163,14 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Mass-file-renaming-with-excel?style=social" alt="watchers" />
+    --->
     &nbsp;
     <img src="https://img.shields.io/github/downloads/JoseChirif/Mass-file-renaming-with-excel/total" alt="downloads" />
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Mass-file-renaming-with-excel.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Mass-file-renaming-with-excel?style=social" alt="Stars" />
     &nbsp;
@@ -194,10 +210,14 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Pictures-to-ppt?style=social" alt="watchers" />
+    --->
     &nbsp;
     <img src="https://img.shields.io/github/downloads/JoseChirif/Pictures-to-ppt/total" alt="downloads" />
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Pictures-to-ppt.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Pictures-to-ppt?style=social" alt="Stars" />
     &nbsp;
@@ -236,10 +256,14 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt?style=social" alt="watchers" />
+    --->
     &nbsp;
     <img src="https://img.shields.io/github/downloads/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt/total" alt="downloads" />
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Progress-circles-ptt---Puntos-avance-ppt.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt?style=social" alt="Stars" />
     &nbsp;
@@ -278,10 +302,14 @@ Welcome to my top projects, they are categorised by:
     &nbsp;
   </p>
   <p align="center">
+    <!---watchers
     &nbsp;
     <img src="https://img.shields.io/github/watchers/JoseChirif/Progress-bar-power-point?style=social" alt="watchers" />
+    --->
     &nbsp;
     <img src="https://img.shields.io/github/downloads/JoseChirif/Progress-bar-power-point/total" alt="downloads" />
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/Progress-bar-power-point.json&color=blue&label=Clones" alt="Unique clones" />
     &nbsp;
     <img src="https://img.shields.io/github/stars/JoseChirif/Progress-bar-power-point?style=social" alt="Stars" />
     &nbsp;
