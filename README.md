@@ -2,9 +2,9 @@
 
 ![Data science](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)
 
-**I'm an Industrial Engineer specializing in Data Science.**
+**Industrial Engineer specializing in Data Science.**
 
-I have a strong foundation in **Python** 🐍, **R Studio** 📊, **DAX** 🧮, **SQL** 💻, and advanced **Excel** 📑. I also have experience with **SAP BO** 🏢 and a keen ability to quickly learn and adapt to new systems and technologies 🚀.
+Strong foundation in **Python** 🐍, **R Studio** 📊, **DAX** 🧮, **SQL** 💻, and advanced **Excel** 📑. Additionally, experienced in **SAP BO (ERP)** 🏦 and highly adaptable to new systems and technologies 🚀.
 
 Currently deepening my specialization in **Data Science** 📈, focusing on **machine learning** 🤖, **data visualization** 📊, and **statistical analysis** 📐.
 
