@@ -14,7 +14,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
   </a>
     &nbsp;
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/clones_totales.json&color=blue&label=Clones" alt="Unique clones" />
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/clones_totales_seleccionados.json&color=blue&label=Clones" alt="Unique clones" />
   </a>
     &nbsp;
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
