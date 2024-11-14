@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!  😃
 
-![Data science](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)
+[![Data science](https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186)](https://github.com/JoseChirif?tab=repositories)
 
 **Industrial Engineer specializing in Data Science.**
 
@@ -44,7 +44,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
  <!-- ## 💻 Teck stacks:-->
 -------------
 
-![badge white background with logos](https://github.com/user-attachments/assets/47e16ded-c19c-41ed-88d1-3f734dbe59cc)
+[![badge white background with logos](https://github.com/user-attachments/assets/47e16ded-c19c-41ed-88d1-3f734dbe59cc)](https://github.com/JoseChirif?tab=repositories)
 
 -------------
 

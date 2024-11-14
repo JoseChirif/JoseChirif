@@ -17,7 +17,7 @@ Welcome to my top projects, they are categorised by:
 
   In this notebook I made an analysis of all variables that could influence in the price of Melbourne house's. Also, there is a final simulation that prompts the user to enter data and predicts the average price of the house.
 
-  ![Melbourne house intro](https://github.com/user-attachments/assets/36e77cc4-c93b-4994-98cd-51639385b4cc)
+  [![Melbourne house intro](https://github.com/user-attachments/assets/36e77cc4-c93b-4994-98cd-51639385b4cc)](https://github.com/JoseChirif/2018-House-Price-Estimation---Melbourne-Australia)
 
 
   <!--- Badges Data science --->
@@ -54,11 +54,11 @@ Welcome to my top projects, they are categorised by:
 ------
 
 <!--- PROJECT JOB STUDIES RELATIONSHIP --->
-### [Job-Studies relationship: Kaggle survey](https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle)
+### [Job-Studies relationship: a Kaggle survey](https://github.com/JoseChirif/Job-Studies-relationship-a-kaggle-survey)
 
   This project analyzes a kaggle survey of employability and studies and makes a comprehensive analysis of the relationship of these and other variables. Machine learning tools as supervized training were used to obtain better conclusions.
 
-  ![Job-study intro](https://github.com/user-attachments/assets/7cc8e972-0606-4bcb-9487-82e8a3e48170)
+  [![Job-study intro](https://github.com/user-attachments/assets/7cc8e972-0606-4bcb-9487-82e8a3e48170)](https://github.com/JoseChirif/Job-Studies-relationship-a-kaggle-survey)
 
 
   <!--- Badges Data science --->
@@ -84,7 +84,7 @@ Welcome to my top projects, they are categorised by:
 
   <!--- Link --->
   <p align="center">
-    <a href="https://github.com/JoseChirif/Estudios-y-empleabilidad-Encuesta-kaggle">Visit the project repository through this link</a>
+    <a href="https://github.com/JoseChirif/Job-Studies-relationship-a-kaggle-survey">Visit the project repository through this link</a>
   </p>
 
   **Limitations:** As describe in the repository.
@@ -98,7 +98,7 @@ Welcome to my top projects, they are categorised by:
 
   This project analyzes the reviews and satisfaction of customers who used AirBnB services. It also studies if there is a relationship between another variables.
 
-  ![Analysis AirBnB intro](https://github.com/user-attachments/assets/64b0dd4c-3c6d-48e8-af3b-35e3f7a493c3)
+  [![Analysis AirBnB intro](https://github.com/user-attachments/assets/64b0dd4c-3c6d-48e8-af3b-35e3f7a493c3)](https://github.com/JoseChirif/Reviews-and-Satisfaction-Analysis-of-AirBnB-Brazil-and-Mexico-from-June-2010-to-February-2021)
 
 
   <!--- Badges Data science --->
@@ -142,7 +142,7 @@ Welcome to my top projects, they are categorised by:
 
   Generate an automatic excel template with the name of all files in the same folder of your project. Then, rename all of them with one click (as the new value you assing in the excel).
 
-  ![Mass file renaming intro](https://github.com/user-attachments/assets/a83851ec-b4ee-43c1-a433-60317cde5f2f)
+  [![Mass file renaming intro](https://github.com/user-attachments/assets/a83851ec-b4ee-43c1-a433-60317cde5f2f)](https://github.com/JoseChirif/Mass-file-renaming-with-excel)
 
 
 
@@ -192,7 +192,7 @@ Welcome to my top projects, they are categorised by:
 
   Automatically inserts all images from a folder to ppt slides with one click!
 
-  ![Pictures to ppt intro](https://github.com/user-attachments/assets/35930e24-d37f-488a-a7d8-457cf8745e50)
+  [![Pictures to ppt intro](https://github.com/user-attachments/assets/35930e24-d37f-488a-a7d8-457cf8745e50)](https://github.com/JoseChirif/Pictures-to-ppt)
 
 
   <!--- Badges automatitation --->
@@ -238,7 +238,7 @@ Welcome to my top projects, they are categorised by:
 
   This VBA Macros add progress circles to your slides (powerpoint). Similar to a progress bar for ppt presentations.
 
-  ![Progress circles intro](https://github.com/user-attachments/assets/c5186967-14f9-4c56-a68c-7d30ee9f6ef7)
+  [![Progress circles intro](https://github.com/user-attachments/assets/c5186967-14f9-4c56-a68c-7d30ee9f6ef7)](https://github.com/JoseChirif/Progress-circles-ptt---Puntos-avance-ppt)
 
 
   <!--- Badges automatitation --->
@@ -284,7 +284,7 @@ Welcome to my top projects, they are categorised by:
 
   This macros simulate a progress bar in your ppt presentation.
 
-  ![Progress bar intro](https://github.com/user-attachments/assets/fee7e342-5914-4e63-a8c8-4880deaaedc8)
+  [![Progress bar intro](https://github.com/user-attachments/assets/fee7e342-5914-4e63-a8c8-4880deaaedc8)](https://github.com/JoseChirif/Progress-bar-power-point)
 
 
   <!--- Badges automatitation --->
