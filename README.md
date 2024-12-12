@@ -22,8 +22,17 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating/updated-data/stars_total.json&label=Stars&logo=github&style=social" alt="Github total stars"/>
   </a>
+  <!---Profile views
+    &nbsp;
+  <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=JoseChirirf" alt="ProfileViews"/>
+  </a>
+  -->
+
   
 </p>
+
+
 
 
 
@@ -110,6 +119,13 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 
 <br>
 
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=JoseChirif&layout=compact' alt = 'Most used languanges' align='right'/>
+
+<!----Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=JoseChirif&show_icons=true&hide=[%22issues%22])
+---->
+
+
 **_Check my Github repositories categorized by:_**
 - [Data science and data analysis](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Adata)
 - [Automation](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Aautomation)
@@ -126,5 +142,6 @@ Let's connect and create something amazing!
 <!-- @JoseChirif -->
 <p align="right">
   <a href="https://linktr.ee/JChirif">@JoseChirif</a>
+  
 </p>
 
