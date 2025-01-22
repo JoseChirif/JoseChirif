@@ -8,6 +8,7 @@ Welcome to my top projects, they are categorised by:
 
 - [Data science and data analysis](#-data-science-and-analysis)
 - [Automation](https://github.com/JoseChirif/JoseChirif/blob/main/My%20top%20projects.md#%EF%B8%8F-automation-some-made-as-a-hobbie-)
+- [Others](#-others)
 
 
 ## 📈 Data science and analysis
@@ -324,9 +325,63 @@ Welcome to my top projects, they are categorised by:
 
 <!--- END PROJECT PROGRESS BAR IN PPT --->
 
+
+
+
+
+
 ------
+## 🥽 Others
+
+<!--- PROJECT PERT DIAGRAM WITH COLAB --->
+### [PERT DIAGRAM WITH COLAB](https://github.com/JoseChirif/PERT-diagram-with-colab)
+
+  Automatically generate a PERT diagram with Google Colab from Excel data!
+
+  [![Pert Diagram with Colab](https://github.com/user-attachments/assets/5ce4f264-079e-4eb3-9001-9f9d8c4f725c)](https://github.com/JoseChirif/PERT-diagram-with-colab)
 
 
+  <!--- Badges other --->
+  <p align="center">
+    &nbsp;
+    <img src="https://img.shields.io/github/languages/count/JoseChirif/PERT-diagram-with-colab" alt="Languages" />
+    &nbsp;
+    <img src="https://img.shields.io/github/languages/top/JoseChirif/PERT-diagram-with-colab" alt="Top-Language" />
+    &nbsp;
+    <img src="https://img.shields.io/github/license/JoseChirif/PERT-diagram-with-colab" alt="License" />
+    &nbsp;
+    <img src="https://img.shields.io/github/repo-size/JoseChirif/PERT-diagram-with-colab" alt="Repo-size" />
+    &nbsp;
+    <img src="https://img.shields.io/github/release/JoseChirif/PERT-diagram-with-colab" alt="release" />
+    &nbsp;
+  </p>
+  <p align="center">
+    <!---watchers
+    &nbsp;
+    <img src="https://img.shields.io/github/watchers/JoseChirif/PERT-diagram-with-colab?style=social" alt="watchers" />
+    --->
+    &nbsp;
+    <img src="https://img.shields.io/github/downloads/JoseChirif/PERT-diagram-with-colab/total" alt="downloads" />
+    &nbsp;
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JoseChirif/JoseChirif/refs/heads/data-updating_per_repository/updated-data/PERT-diagram-with-colab.json&color=blue&label=Clones" alt="Unique clones" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/JoseChirif/PERT-diagram-with-colab?style=social" alt="Stars" />
+    &nbsp;
+  </p>
+
+  <!--- Link --->
+  <p align="center">
+    <a href="https://github.com/JoseChirif/PERT-diagram-with-colab">Visit the project repository through this link</a>
+  </p>
+
+
+<!--- END PROJECT PERT DIAGRAM WITH COLAB --->
+
+
+
+
+
+------
 
 <!--- Footer-->
 ## 📫 How to reach me:
