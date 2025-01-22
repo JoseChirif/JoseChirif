@@ -129,6 +129,7 @@ Currently deepening my specialization in **Data Science** 📈, focusing on **ma
 **_Check my Github repositories categorized by:_**
 - [Data science and data analysis](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Adata)
 - [Automation](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3Aautomation)
+- [Others](https://github.com/search?type=repositories&q=user%3AJoseChirif+topic%3other)
 
 
 <br>
