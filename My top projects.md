@@ -385,9 +385,9 @@ Welcome to my top projects, they are categorised by:
 
 <!--- Footer-->
 ## 📫 How to reach me:
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/jose-chirif/en/) or [email me](mailto:josechirif@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jose-chirif/en/) or drop me a message through my [portfolio](https://www.josechirif.com/contact). 
 
-Let's connect and create something amazing!
+**Let's connect!** 🚀 and create something amazing!
 
 <!-- @JoseChirif -->
 <p align="right">
