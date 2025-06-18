@@ -4,11 +4,15 @@
   <img src="https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186" style="aspect-ratio:17/8;" alt="Data science" loading="lazy">
 </a>
 
-**Industrial Engineer specializing in Data Science.**
 
-Strong foundation in **Python** 🐍, **R Studio** 📊, **DAX** 🧮, **SQL** 💻, and advanced **Excel** 📑. Additionally, experienced in **SAP BO (ERP)** 🏦 and highly adaptable to new systems and technologies 🚀.
+**Industrial Engineer with a specialization in Data Science 📊.**
 
-Currently deepening my specialization in **Data Science** 📈, focusing on **machine learning** 🤖, **data visualization** 📊, and **statistical analysis** 📐.
+Experienced in **machine learning 🤖**, **deep learning 🧠**, **data visualization 📉**, and **process optimization 🔧.**
+
+Strong proficiency in **Python 🐍**, **R Studio 📐**, **SQL 💻**, **DAX 📊**, and **data visualization tools** like **Power BI 📊** and **Advanced Excel 📈**.
+
+Currently deepening expertise in **Big Data 🌍**, **Artificial Intelligence 🤖**, and **cloud services** including **Azure**, **AWS**, and **Google Cloud ☁️.**
+
 
 <p align="center">
   <a href="https://github.com/JoseChirif?tab=repositories" target="_blank">
