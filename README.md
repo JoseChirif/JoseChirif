@@ -7,7 +7,7 @@
 
 **Industrial Engineer with a specialization in Data Science 📊.**
 
-Experienced in **machine learning 🤖**, **deep learning 🧠**, **data visualization 📉**, and **process optimization 🔧.**
+Experienced in **machine learning 🤖**, **deep learning 🧠**, **data visualization 📈**, and **process optimization 🔧.**
 
 Strong proficiency in **Python 🐍**, **R Studio 📐**, **SQL 💻**, **DAX 📊**, and **data visualization tools** like **Power BI 📊** and **Advanced Excel 📈**.
 
