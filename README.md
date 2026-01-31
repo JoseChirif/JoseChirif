@@ -1,17 +1,18 @@
 # Hi there! 👋 Welcome to my GitHub!  😃
 
 <a href="https://github.com/JoseChirif?tab=repositories">
-  <img src="https://github.com/user-attachments/assets/5b2948ac-aaea-4c76-b6bd-53e587beb186" style="aspect-ratio:17/8;" alt="Data science" loading="lazy">
+  <img src="https://raw.githubusercontent.com/JoseChirif/assets/refs/heads/main/Personal/Jose%20Chirif%20-%20Badge.gif" style="aspect-ratio:17/8;" alt="Data science and AI" loading="lazy">
 </a>
 
 
-**Industrial Engineer with a specialization in Data Science 📊.**
+**Industrial Engineer specialized in Data Science 📊 and Artificial Intelligence 🤖.**
 
-Experienced in **machine learning 🤖**, **deep learning 🧠**, **data visualization 📈**, and **process optimization 🔧.**
+I bring strengths in **data & data intelligence** (analytics, statistics, visualisation) and in **AI & Machine Learning** (modeling, automation, advanced algorithms), **improving business decisions** and **operational efficiency** through **analytics** and **intelligent solutions**.
 
-Strong proficiency in **Python 🐍**, **R Studio 📐**, **SQL 💻**, **DAX 📊**, and **data visualization tools** like **Power BI 📊** and **Advanced Excel 📈**.
+Experienced in **data analysis 📉**, **data visualization 📈**, **Artificial Intelligence 🤖**, and **process optimization 🔧**, turning information into actionable insights, measurable outcomes, and **tailored solutions aligned with client and business needs**.
 
-Currently deepening expertise in **Big Data 🌍**, **Artificial Intelligence 🤖**, and **cloud services** including **Azure**, **AWS**, and **Google Cloud ☁️.**
+Proficient in **Python 🐍** for data analysis, automation, and intelligent solutions, with experience in **SQL 💻**, **R**, and analytical workflows. Continuously expanding skills in **data engineering**, **applied AI 🤖**, and building **scalable analytical solutions**.
+
 
 
 <p align="center">
@@ -41,13 +42,12 @@ Currently deepening expertise in **Big Data 🌍**, **Artificial Intelligence �
 
 
 ## 💡 I’m looking to collaborate on:
-- Data science projects that involve **predictive modeling**, **data analysis**, and **machine learning**.
-- Projects where **Python** or **R** is the primary tool for data manipulation and visualization.
-- Exploring **automation** solutions using **Python** to streamline workflows.
+- **Data science and AI projects** involving data analysis, predictive modeling, and intelligent solutions. 
+- Automation and optimization projects using **Python** or **R** to improve workflows.
 
-## 🔍 I’m looking for help with:
-- Improving my expertise in **big data platforms**.
-- Enhancing my skills in **deep learning** and **AI**.
+## 🔍 I’m looking to grow in:
+- Advanced **data science** techniques and **applied AI**.  
+- Designing **scalable, production-ready data solutions**.
 
 <br>
 
@@ -58,12 +58,13 @@ Currently deepening expertise in **Big Data 🌍**, **Artificial Intelligence �
 
  <!-- ## 💻 Teck stacks:-->
 -------------
-
+<!---
 <a href="https://github.com/JoseChirif?tab=repositories">
   <img src="https://github.com/user-attachments/assets/47e16ded-c19c-41ed-88d1-3f734dbe59cc" style="aspect-ratio:16/6;" alt="badge white background with logos" loading="lazy">
 </a>
 
 -------------
+---->
 
 
 
